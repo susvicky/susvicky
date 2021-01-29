@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![HitCount](http://hits.dwyl.com/susvicky/susvicky.svg)](http://hits.dwyl.com/susvicky/susvicky)
 <!--
 **susvicky/susvicky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
